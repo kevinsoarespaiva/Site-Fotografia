@@ -20,7 +20,7 @@ main {
     height: 80%;
 }
 footer {
-    align: bottom;  
+    align-self: bottom;  
     background-color: #5d5d5d;
     color: #ffffff;
     padding: 10px;
